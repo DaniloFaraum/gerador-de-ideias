@@ -2,7 +2,7 @@ const coisa = ["Um cozinheiro","Um ninja","Eduardo Zavati","Um ladrão","Um alie
 const acao = ["se escondendo","perdido","caindo do céu","no telefone","correndo","comendo pão de queijo"]
 let pressed = 0
 let multi1 = 8
-let multi2 = 7
+let multi2 = 6
 
 function gerar(){
     let random1 = parseInt(Math.random()*multi1)
