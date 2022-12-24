@@ -1,4 +1,4 @@
-const coisa = ["Um cozinheiro","Um ninja","Eduardo Zavati","Um ladrão","Um alienigena","He-Man","Saul Goodman","Um homem cenoura"]
+const coisa = ["Um cozinheiro","Um ninja","Um leão","Um ladrão","Um alienigena","He-Man","Um cachorro","Um homem cenoura"]
 const acao = ["se escondendo","perdido","caindo do céu","no telefone","correndo","comendo pão de queijo"]
 let pressed = 0
 let multi1 = 8
